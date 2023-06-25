@@ -1,6 +1,6 @@
 ## 👋 Hey everyone, I'm Sushant Chhetry™ 👋
 
-![sushantchhetrygif](https://github.com/SushantChhetry/SushantChhetry/github-banner.gif)
+![sushantchhetrygif](https://github.com/SushantChhetry/SushantChhetry/blob/master/github-banner.gif)
 
 
 I'm a passionate developer dedicated to crafting clean and efficient code to bring innovative ideas to life.
@@ -20,7 +20,8 @@ I'm a passionate developer dedicated to crafting clean and efficient code to bri
 
 I also host a virtual meetup called <strong>Dev Connect </strong>, bringing together developers from around the world to share knowledge and foster collaboration.
 ## GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SushantChhetry&theme=tokyonight&hide=yacc&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. It's a 3D visualisation of your contribution graph. You can interact with your 3D graph, make a video, download the STL file, add annotations, and even view it in Virtual Reality - you'll need a phone and a Google Cardboard to do this, or you can break out the fancy VR headsets. You can also view the ASCII art, and if you know the code combination, you can view the Konami code (コナミコマンド).
+[![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SushantChhetry&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-As for the charts 🥧, if you like my A++ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SushantChhetry&theme=tokyonight)](https://git.io/streak-stats)
