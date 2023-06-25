@@ -1,6 +1,6 @@
 ## 👋 Hey everyone, I'm Sushant Chhetry™ 👋
 
-![sushantchhetrygif](https://github.com/SushantChhetry/SushantChhetry/blob/master/github-banner.gif)
+![sushantchhetrygif](https://github.com/SushantChhetry/SushantChhetry/blob/main/github-banner.gif)
 
 
 I'm a passionate developer dedicated to crafting clean and efficient code to bring innovative ideas to life.
