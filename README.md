@@ -12,7 +12,7 @@ I'm a passionate developer dedicated to crafting clean and efficient code to bri
 <p align="left">
 <a href="https://twitter.com/SushantChhetryy" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
 <a href="https://www.linkedin.com/in/sushantchhetry/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="https://medium.com/@sushantchhetryacademics" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<!-- <a href="https://medium.com/@sushantchhetryacademics" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a> -->
 </p>
 
 ### Some Fun Facts about me:
