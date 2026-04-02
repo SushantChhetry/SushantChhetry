@@ -20,7 +20,6 @@ I'm a passionate developer dedicated to crafting clean and efficient code to bri
 
 I also host a virtual meetup called <strong>Dev Connect </strong>, bringing together developers from around the world to share knowledge and foster collaboration.
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SushantChhetry&theme=tokyonight&hide=yacc&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SushantChhetry&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
